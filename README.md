@@ -1,2 +1,10 @@
-# carrusel-imgs-js
-Carrusel desarrollado con javascript, css y html
+# Carrusel-js
+
+
+Este carrusel fue desarrollado utilizando:
+
+  - Javascript
+  - CSS
+  - HTML
+ 
+**JS is life is love <3!**
